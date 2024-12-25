@@ -1,0 +1,9 @@
+.lef::before {
+  content: '';
+  position: absolute;
+  width: 4px;
+  height: 25px;
+  left: -10px;
+  top: 4px;
+  background-color: #f8d442;
+}

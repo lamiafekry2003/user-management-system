@@ -1,0 +1,4 @@
+.sidecontainer :global(.ps-menu-button:hover) {
+    background-color: #FEAF00 !important;
+    border-radius: 5px;
+}
